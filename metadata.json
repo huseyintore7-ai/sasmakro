@@ -1,0 +1,5 @@
+{
+  "name": "SAS IFRS 17 Migration Analyzer",
+  "description": "A tool to analyze and migrate customized SAS macros to new IFRS 17 versions.",
+  "requestFramePermissions": []
+}
